@@ -1,0 +1,50 @@
+[
+ {
+  "repositorio": "dev01",
+  "subgrupo": "desenvolvimento"
+ },
+ {
+  "repositorio": "dev02",
+  "subgrupo": "desenvolvimento"
+ },
+ {
+  "repositorio": "dev03",
+  "subgrupo": "desenvolvimento"
+ },
+ {
+  "repositorio": "hom01",
+  "subgrupo": "homologacao"
+ },
+ {
+  "repositorio": "hom02",
+  "subgrupo": "homologacao"
+ },
+ {
+  "repositorio": "hom03",
+  "subgrupo": "homologacao"
+ },
+ {
+  "repositorio": "pro01",
+  "subgrupo": "producao"
+ },
+ {
+  "repositorio": "pro02",
+  "subgrupo": "producao"
+ },
+ {
+  "repositorio": "pro03",
+  "subgrupo": "producao"
+ },
+ {
+  "repositorio": "teste01",
+  "subgrupo": "desenvolvimento"
+ },
+ {
+  "repositorio": "teste02",
+  "subgrupo": "homologacao"
+ },
+ {
+  "repositorio": "teste03",
+  "subgrupo": "producao"
+ }
+]
