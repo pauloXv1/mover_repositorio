@@ -1,0 +1,1 @@
+# o objetivo desse script é fazer o trabalho que seria manual de mover repositórios para os seus subgrupos ( o script funciona para muitas outras coisas, basta você modificar algumas coisas) de forma automatica através de um mapeamento dos repositórios e os seu pertencentes subgrupos
