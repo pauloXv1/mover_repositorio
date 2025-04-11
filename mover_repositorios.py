@@ -37,7 +37,7 @@ def mover_repositorio(repo_id, subgrupo):
         novo_namespace = grupo_destino.full_path
         print("Movendo {projeto.name} para  {novo_namespace}..")
 
-        projeto.transfer(grupo_id=grupo_destino.id)
+        projeto.transfer(to_namespace_grupo_id=grupo_destino.id)
         print(f"Repositório {projeto.name} movido para {novo_namespace}")
     except gitlab.exceptions.GitlabError as e:
         print(f"erro {projeto.name}: {e}" )
